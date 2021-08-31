@@ -40,7 +40,7 @@ System.out.print(rev);
 }
 }
 
-
+Third largest Array
 
 public class ThirdLargestInArrayExample{  
 public static int getThirdLargest(int[] a, int total){  
