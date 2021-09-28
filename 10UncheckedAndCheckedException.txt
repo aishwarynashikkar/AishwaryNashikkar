@@ -1,4 +1,4 @@
-Example of Unchecked Exception
+/////////////////Example of Unchecked Exception/////////////////
 
 
 --- ArrayIndexOutOfBoundException
@@ -15,7 +15,7 @@ Example of Unchecked Exception
 
 
 
-Example of Checked Exception
+////////////////////Example of Checked Exception//////////////////////
 
 
 --- IOException
