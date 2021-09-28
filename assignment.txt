@@ -1,4 +1,4 @@
-ArmStrong Number
+////////////////////////////////////////ArmStrong Number////////////////////////////////////
 
 import jav.util.Scanner;
 class A
@@ -24,7 +24,7 @@ System.out.print("Not Armstrong Number");
 
 
 
-Reverse number
+/////////////////////////////////////////////////Reverse number////////////////////////////////////////
 
 class ReverseANumber
 {
@@ -40,7 +40,7 @@ System.out.print(rev);
 }
 }
 
-Third largest Array
+//////////////////////////////////////////////////Third largest Array///////////////////////////////////////////////
 
 public class ThirdLargestInArrayExample{  
 public static int getThirdLargest(int[] a, int total){  
